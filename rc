@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/Ahmaddevx/Ahmaddevx-Tunnel/main/"
+
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}limit/rclone.conf"
