@@ -22,5 +22,5 @@ systemctl start limittrojan
 systemctl start limitshadowsocks
 systemctl restart limitvmess
 systemctl restart limitvless
-# systemctl restart limittrojan
-# systemctl restart limitshadowsocks
+systemctl restart limittrojan
+systemctl restart limitshadowsocks
